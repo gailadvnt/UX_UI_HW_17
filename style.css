@@ -1,0 +1,237 @@
+
+body {
+    font-family: 'Crimson Pro';
+    background-image: url("/images/Pink\ Wallpaper.png");
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+    
+header {
+font-size: 104px;
+font-family: 'Crimson Pro', serif;
+font-weight: 100;
+letter-spacing:0.8px; 
+padding-top: 36px;
+}
+
+nav {
+width: 100vw;
+background-color: rgba(228, 222,223,0.95);
+height: 7.8%;
+display: flex;
+justify-content: flex-end;
+align-items: center;
+margin-bottom: 104px;
+}
+
+nav li {
+font-family: 'Crimson Pro', serif;
+display: inline-block;
+text-align: right;
+padding: 16px 48px;
+font-size: 24px;
+font-weight: 400;
+letter-spacing: 0.8px;
+line-height: 48px;
+}
+
+ .logo {
+width: 144px;
+height: 144px;
+border-radius: 90px;
+position:absolute;
+Top: 10%;
+Left: 50%;
+Transform: translate(-50%, -50%);
+z-index: 300;
+
+}
+
+/* hero image below */
+
+.heroimg {
+background-color: rgba(228, 222,223,0.95);
+margin-bottom: 104px;
+width: 100vw;
+height: 632px;
+}
+
+
+.heroimg p {
+font-family: 'Crimson Pro', serif;
+font-size: 18px;
+font-weight: 400;
+margin-top:16px;
+padding-bottom: 8px;
+padding-top: 8px;
+padding-right: 8px;
+padding-left: 8px;
+letter-spacing: 0.8px;
+line-height: 48px;
+max-width: 365px;
+
+
+}
+
+.heroimgContent {
+margin-left: 148px; 
+}
+
+.heroimg img {
+position: absolute;
+width: 40%;
+border-radius: 50%;
+top: 30%;
+right: 5%
+}
+
+button {
+font-size: 18px;
+background-color: #A6A4B4;
+padding: 8px 32px;
+text-align:center;
+border-radius: 90px;
+font-family: 'Crimson Pro', serif;
+border: none;
+letter-spacing: 5px;
+line-height: 48px;
+}
+
+/* skills section below */
+
+.skills {
+background-color: rgba(228, 222,223,0.95);
+Z-index: -1;
+padding-top: 35px;
+padding-bottom: 35px;
+margin-bottom: 208px;
+width: 100vw;
+}
+
+.skills p {
+font-size: 18px;
+font-weight: 400;
+letter-spacing: 5px;
+line-height: 48px;
+}
+.skills ul {
+max-width: 400px;
+line-height: 36px;
+letter-spacing: 0.8px;
+line-height: 48px;
+font-size: 18px;
+}
+
+.skillsText {
+margin-left: 148px; 
+margin-right: 612px;
+letter-spacing: 0.8px;
+line-height: 48px;
+}
+
+.softSkillsList {
+margin-bottom:58px;
+}
+
+.hardSkillsList {
+padding-top: 8px;
+padding-bottom: 8px;
+padding-left: 8px;
+padding-right: 8px;
+max-width: 700px;
+letter-spacing: 0.8px;
+line-height: 48px;
+margin-bottom: 58px;
+}
+
+.hardSkillsList button {
+border: .5px solid;
+border-color: #A6A4B4;
+border-radius: 90px;
+padding: 10px 40px;
+font-size: 18px;
+text-align: center;
+background-color: transparent;
+display: inline-block;
+margin-top: 8px;
+margin-bottom: 8px;
+margin-right: 8px;
+letter-spacing: 0.8px;
+line-height: 48px;
+}
+
+.skills .title {
+font-size: 18px;
+font-weight: 400;
+letter-spacing: 0.8px;
+line-height: 48px;
+}
+
+.designPhil {
+max-width: 1200px;
+line-height: 36px;
+letter-spacing: 0.8px;
+line-height: 48px;
+font-size: 18px;
+
+}
+
+/* button section below */
+
+.buttonSection {
+max-width: 800px;
+position:absolute;
+left: 50%;
+Transform: translate(-50%, -50%);
+text-align: center;
+}
+
+.buttonSection button {
+background-color: #A6A4B4;
+border-radius: 90px;
+padding: 10px 40px;
+font-size: 18px;
+text-align: center;
+margin-top: 8px;
+margin-bottom: 8px;
+margin-right: 8px;
+letter-spacing: 0.8px;
+line-height: 48px;
+}
+/* footer below */
+
+footer {
+width: 100vw;
+background-color: rgba(228, 222,223,0.95);
+height: 7.8%;
+display: flex;
+justify-content: flex-end;
+align-items: center;
+margin-right: 48px;
+margin-top: 416px;
+}
+
+footer img {
+padding-right: 48px;
+padding-left: 24px;
+}
+
+footer li {
+list-style: none;
+display: inline-block;
+text-align: right;
+padding: 36px 96px;
+font-size: 18px;
+font-weight: 400;
+letter-spacing: 0.8px;
+line-height: 48px;
+}
+
+
+
+
+
+
+
